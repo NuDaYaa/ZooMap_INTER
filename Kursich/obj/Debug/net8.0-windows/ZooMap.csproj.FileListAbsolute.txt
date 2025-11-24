@@ -1,0 +1,162 @@
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\ZooMap.exe
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\ZooMap.deps.json
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\ZooMap.runtimeconfig.json
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\ZooMap.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\ZooMap.pdb
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.csproj.AssemblyReference.cache
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\Views\AdminPanelWindow.baml
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\Views\EnclosureInfoWindow.baml
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\Views\RegistrationWindow.baml
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\Views\AdminPanelWindow.g.cs
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\Views\EnclosureInfoWindow.g.cs
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\Views\RegistrationWindow.g.cs
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap_MarkupCompile.cache
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.g.resources
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.AssemblyInfoInputs.cache
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.AssemblyInfo.cs
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.csproj.Up2Date
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\refint\ZooMap.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.pdb
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ZooMap.genruntimeconfig.cache
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\ref\ZooMap.dll
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ИСП-42\Desktop\Kursich\Kursich\obj\Debug\net8.0-windows\MainWindow.g.cs
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\ZooMap.exe
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\ZooMap.deps.json
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\ZooMap.runtimeconfig.json
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\ZooMap.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\ZooMap.pdb
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Azure.Core.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Azure.Identity.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\System.ClientModel.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\System.Memory.Data.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+Z:\E. Prog\Kursach\Kursich\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.csproj.AssemblyReference.cache
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\MainWindow.baml
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\Views\AdminPanelWindow.baml
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\Views\EnclosureInfoWindow.baml
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\Views\RegistrationWindow.baml
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\MainWindow.g.cs
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\Views\AdminPanelWindow.g.cs
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\Views\EnclosureInfoWindow.g.cs
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\Views\RegistrationWindow.g.cs
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\App.g.cs
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap_MarkupCompile.cache
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.g.resources
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.GeneratedMSBuildEditorConfig.editorconfig
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.AssemblyInfoInputs.cache
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.AssemblyInfo.cs
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.csproj.CoreCompileInputs.cache
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.csproj.Up2Date
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.dll
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\refint\ZooMap.dll
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.pdb
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ZooMap.genruntimeconfig.cache
+Z:\E. Prog\Kursach\Kursich\obj\Debug\net8.0-windows\ref\ZooMap.dll

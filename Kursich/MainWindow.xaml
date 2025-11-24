@@ -1,0 +1,47 @@
+﻿<Window x:Class="ZooMap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Интерактивная карта зоопарка" Height="800" Width="1200"
+        WindowState="Maximized">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Панель управления -->
+        <DockPanel Grid.Row="0" Background="LightBlue" LastChildFill="False">
+            <StackPanel DockPanel.Dock="Left" Orientation="Horizontal" Margin="10">
+                <Button x:Name="btnLogin" Content="Вход" Click="BtnLogin_Click" 
+                        Margin="5" Padding="10,5" Width="80"/>
+                <Button x:Name="btnRegister" Content="Регистрация" Click="BtnRegister_Click" 
+                        Margin="5" Padding="10,5" Width="100"/>
+            </StackPanel>
+
+            <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" Margin="10">
+                <TextBlock x:Name="tbUserInfo" Margin="10,0" VerticalAlignment="Center"/>
+                <Button x:Name="btnAdminPanel" Content="Панель администратора" 
+                        Click="BtnAdminPanel_Click" Margin="5" Padding="10,5" 
+                        Visibility="Collapsed"/>
+            </StackPanel>
+        </DockPanel>
+
+        <!-- Контейнер для карты -->
+        <ScrollViewer Grid.Row="1" x:Name="scrollViewer" 
+                      HorizontalScrollBarVisibility="Auto" 
+                      VerticalScrollBarVisibility="Auto"
+                      Background="DarkGray">
+
+            <Grid x:Name="mapContainer" Width="2000" Height="2000">
+                <!-- Карта зоопарка -->
+               
+
+                <!-- Контейнер для иконок вольеров -->
+                <Canvas x:Name="iconsCanvas">
+                    <!-- Иконки будут добавляться динамически -->
+                </Canvas>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Window>
